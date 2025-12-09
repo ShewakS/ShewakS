@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShewakS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ShewakS?theme=dark&font=Fira%20Code)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shewak-08?theme=dark&font=Fira%20Code)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShewakS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
