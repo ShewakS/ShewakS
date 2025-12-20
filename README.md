@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Question Paper Generator and Evaluator<br><br>🌱 I’m currently learning Java , Machine learning<br><br>🤝 I’m looking for help with Box Recycle Management System<br><br>💬 Ask me about C , C++ , Python<br><br>📫 How to reach me shewaks08@gmail.com
+🔭 I’m currently working on Medical Question Paper Generator and Evaluator<br><br>🌱 I’m currently learning Java , Machine learning<br><br>🤝 I’m looking for help with Box Recycle Management System<br><br>💬 Ask me about C , C++ , Python<br><br>📫 How to reach me shewaks08@gmail.com
 
 
 ## 🌐 Socials:
