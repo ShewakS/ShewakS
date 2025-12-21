@@ -12,6 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ShewakS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShewakS&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 📈 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShewakS&theme=react-dark)
+
+
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shewak-08?theme=dark&font=Fira%20Code)
 
