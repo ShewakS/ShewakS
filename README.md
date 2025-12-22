@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShewakS&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShewakS&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShewakS&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShewakS&layout=compact&theme=radical)
 
 ---
