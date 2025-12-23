@@ -46,12 +46,10 @@
 
 ## 🚀 Featured Projects
 - 🏥 **Medical Question Paper Generator & Evaluator**  
-  *Python, Machine Learning, MongoDB*  
-  🔗 _Add repository link_
+  https://github.com/ShewakS/Medical-QP-Generator-and-Evaluator
 
 - 📦 **Box Recycle Management System**  
-  *Java, MySQL*  
-  🔗 _Add repository link_
+  https://github.com/ShewakS/BoxTrackLive
 
 ---
 
