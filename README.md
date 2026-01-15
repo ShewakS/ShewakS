@@ -54,9 +54,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShewakS&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShewakS&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShewakS&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShewakS&show_icons=true&theme=radical&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShewakS&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShewakS&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
@@ -71,7 +74,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShewakS&theme=radical&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShewakS&theme=radical&no-frame=true&no-bg=true&cache_seconds=1800)
+
 
 ---
 
@@ -80,5 +84,5 @@
 
 ---
 
-👀 **Profile Views**  
-![Visitor Count](https://visitcount.itsvg.in/api?id=ShewakS&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=ShewakS&label=Profile%20Views&color=12)
+
