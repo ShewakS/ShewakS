@@ -73,16 +73,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShewakS&theme=radical&no-frame=true&no-bg=true&cache_seconds=1800)
-
-
----
-
 ## ✍️ Quote That Inspires Me
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ShewakS&label=Profile%20Views&color=12)
 
